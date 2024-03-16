@@ -55,6 +55,6 @@ I'm currently learning Next.js and Typescript to enhance my skills in the fronte
 My current goals include:
 - Contributing more to open-source projects
 - Learning MERN Stack ( Node.js | Express.js | Mongo DB )
-- React Native
+- Learning React Native for Mobile Developemnt
 
 Don't hesitate to reach out for collaboration or a casual chat about CSS, animations, new technologies, or even pizza!
