@@ -13,7 +13,7 @@ C# | SQL | JQuary | Spline
 
 ## 💼 Experience
 #### React Developer | LearnHub
-- Developed a comprehensive platform aimed at providing robust support for the IT community, fostering non-formal collaborations with esteemed organizations within the sector, including corporations and universities.
+- Developing a comprehensive platform aimed at providing robust support for the IT community, fostering non-formal collaborations with esteemed organizations within the sector, including corporations and universities.
 - Facilitated mentorship opportunities and guidance to aspiring entrepreneurs in launching new startups.
 - Orchestrated the maintenance of networks connecting individuals seeking hands-on experience, real project engagements, and further education across diverse domains.
 - Championed the advancement of the IT sector in Macedonia through proactive encouragement and empowerment initiatives.
@@ -22,7 +22,7 @@ C# | SQL | JQuary | Spline
 
 #### React Developer | Sienna Pastry Boutique
 - Led Frontend Developer role at an innovative startup in the food industry, focusing on frontend design and development using React.js.
-- Collaborated closely with clients to understand unique requirements, ensuring project alignment with their vision and expectations.
+- Spearheaded the development of the web page utilizing React.js, CSS modules, Freamer Motion, and Email.js for the frontend, ensuring a modern and efficient user interface.
 - Meticulously tracked project progress to maintain transparency and deliver results within deadlines.
 - Prioritized crafting user-centric products with a focus on speed, responsiveness, and intuitive interfaces.
 - Optimized application performance and built responsive styled components to elevate user experience.
