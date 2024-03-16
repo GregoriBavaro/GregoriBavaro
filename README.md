@@ -42,9 +42,9 @@ C# | SQL | JQuary | Spline
 I'm currently learning Next.js and Typescript to enhance my skills in the frontend. I'm always eager to explore new tools and methodologies to improve my craft.
 
 ## 📚 Other fun projects
-- [Web protfolio]([Link](https://github.com/GregoriBavaro/portfolio)): Crafting a Dynamic Web Portfolio: Showcasing My Developer Journey
-- [Team portfolio]([Link](https://github.com/GregoriBavaro/team-web-portfolio)): Collaborative Web Portfolio: Showcasing Our Collective Expertise
-- [Productivity App]([Link](https://github.com/GregoriBavaro/Productivity-App)): Productivity web app platform aimed at task and time management. with built-in integrations including a calendar and real time statistics.
+- [Web protfolio] https://github.com/GregoriBavaro/portfolio: Crafting a Dynamic Web Portfolio: Showcasing My Developer Journey
+- [Team portfolio] https://github.com/GregoriBavaro/team-web-portfolio: Collaborative Web Portfolio: Showcasing Our Collective Expertise
+- [Productivity App] https://github.com/GregoriBavaro/Productivity-App: Productivity web app platform aimed at task and time management. with built-in integrations including a calendar and real time statistics.
 
 ## 🤝 Let's Connect
 - [LinkedIn] https://www.linkedin.com/in/gregori-bavaro/
