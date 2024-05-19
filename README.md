@@ -6,7 +6,7 @@
 I am a passionate React JavaScript Developer with over one year of freelance experience. Dedicated to crafting innovative and high-quality web solutions that elevate user experiences. Proficient in frontend development using React.js, with a keen eye for detail and a drive for continuous learning. Skilled in collaborating with clients to understand their needs and deliver tailored solutions that exceed expectations. Committed to staying updated with the latest technologies and industry trends to consistently deliver top-notch results.
 
 ## 💻 Below are the core technologies where I hold expertise:
-React.js | Next.js | JavaScript | CSS | SCSS | Tailwind | TypeScript | Git
+React.js | Next.js | JavaScript | CSS | SASS | TypeScript | Git
 
 ## 🛠️ Furthermore, I have experience with the following technologies:
 C# | SQL | JQuary | Spline
